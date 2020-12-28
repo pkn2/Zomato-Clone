@@ -1,0 +1,250 @@
+  .logo {
+    font-family: Poppins;
+    font-size: 70px;
+    font-weight: 600;
+    color: #eb2929;
+  }
+  .logocontaner{
+    width: 110px;
+    height: 110px;
+    background: white;
+    margin-top: -408px;
+    border-radius: 50%;
+    margin-left: 44%;
+    margin-right: 46%;
+  }
+  .headtitle{
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 25px;
+  }
+  
+  #headtextcontainer{
+    position: relative;
+  }
+  #locser{
+    width: 230px;
+    padding-left: 23px;
+    height: 50px;
+    margin-bottom: 25px;
+    border: white;
+    margin-right: 9px;
+    opacity: 0.8;
+  }
+  #resser{
+    width: 438px;
+    padding-left: 6px;
+    height: 50px;
+    margin-left: 8px;
+    border: white;
+  }
+
+  .hocerimg{
+    border-radius: 50%;
+    width: 39px;
+    height: 38px;
+    float: left;
+    margin-top: 14px;
+    margin-left: 5px;
+    border: 3px solid grey;
+  }
+  .addre{
+    float: left;
+    padding-left: 18px;
+    font-family: Poppins;
+    font-size: 12px;
+    color: #636f88;
+  }
+  .hoti{
+    float: left;
+    padding-left: 16px;
+    font-size: 16px;
+    line-height: 2;
+    padding-top: 4px;
+    font-family: Poppins;
+    font-weight: 600;
+    color: darkslateblue;
+  }
+  
+  .quick_ser_heading{
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    margin-top: 26px;
+    margin-left: 7%;
+    color: darkslateblue;
+  }
+  
+  
+  .quick_ser_sub_title{
+    text-align: left;
+    color: gray;
+    font-size: 15px;
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 7%;
+    margin-bottom: 24px;
+  }
+  
+  .titlecontainer{
+    height: 150px;
+    width: 350px;
+    background-color: white;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 25px;
+    box-shadow: 0 3px 6px gray;
+    float: left;
+  }
+  
+  .titleComponent1{
+    width: 45%;
+    float: left;
+  }
+  
+  .titleContainer2{
+    width: 50%;
+    float: left;
+    margin-top: 20px;
+  }
+  
+  .containerheading{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: darkslateblue;
+  }
+  
+  .containerSubheading{
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: gray;
+  }
+  .serbox{
+    overflow-y: auto;
+    height: 146px;
+  }
+  
+  @media screen and (max-width: 480px) {
+    
+    .headtitle {
+      font-family: Poppins;
+      font-size: 24px;
+      font-weight: 600;
+      color: white;
+      margin-bottom: 25px;
+    }
+
+    .serbox{
+      overflow-y: auto;
+      height: 75px;
+    }
+  
+    
+    .titlecontainer {
+      height: 150px;
+      width: 304px;
+      background-color: white;
+      margin-right: 30px;
+      margin-bottom: 30px;
+      margin-left: 11px;
+      box-shadow: 0 3px 6px grey;
+      float: left;
+    } 
+    .titleContainer2 {
+      width: 48%;
+      float: right;
+      margin-top: 20px;
+    }
+  
+  
+  
+  
+    .quick_ser_heading{
+      font-family: Poppins;
+      font-size: 30px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.53;
+      letter-spacing: normal;
+      text-align: left;
+      margin-top: 26px;
+      margin-left: 34px;
+      color: darkslateblue;
+    }
+  
+    .quick_ser_sub_title{
+      text-align: left;
+      color: gray;
+      font-size: 15px;
+      font-weight: normal;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      padding-left: 35px;
+      margin-bottom: 24px;
+    }  
+  
+  }
+  
+  @media screen and (max-width: 777px) {
+    #resser {
+      width: 201px;
+      height: 50px;
+      margin-left: 8px;
+      border: white;
+    }
+    #locser{
+      width: 233px;
+      margin-left: 18px;
+      padding-left: 23px;
+      height: 50px;
+      margin-right: 0px;
+      margin-bottom: 25px;
+      border: white;
+      opacity: 0.8;
+    }
+    
+  }
+  
+  
+  
+  @media screen and (max-width: 570px) {
+  
+    .logocontaner{
+      width: 110px;
+      height: 110px;
+      background: white;
+      margin-top: -408px;
+      border-radius: 50%;
+      margin-left: 34%;
+      margin-right: 46%;
+    }
+    
+  }
+  
+  #bg{
+    background-image:linear-gradient(to bottom, rgba(19, 24, 56, 0), rgba(245, 246, 252, 0), rgba(68, 10, 10, 0.404),  rgba(36, 6, 6, 0.87)), url('../image/img2.png');
+    width: 100%;
+    height: 480px;
+    background-size: cover;
+    color: white;
+    padding: 20px;
+  }

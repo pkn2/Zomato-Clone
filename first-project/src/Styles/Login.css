@@ -1,0 +1,124 @@
+.mainheading{
+    font-family: Poppins;
+    font-size: 26px;
+    font-weight: 600;
+    margin-bottom: 25px;
+    line-height: 1.53;
+    padding-left: 109px;
+    color: darkslateblue;
+}
+.or{
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    color: darkslateblue;
+}
+
+
+
+.mading {
+    font-family: Poppins;
+    font-size: 26px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 49px;
+    color: darkslateblue;
+}
+
+.pppb{
+    margin-top: 134px;
+}
+
+
+
+
+.bx{
+    height: 430px;
+    width: 298px;
+    padding-top: 8px;
+    box-shadow: 3px 1px 16px 7px;
+}
+.fs{
+    padding-left: 54px;
+}
+
+.bbt{
+    margin-left: 60px;
+}
+.em{
+    font-size: 28px;
+    color: white;
+    background-color: red;
+}
+.rbder{
+    height: 29px;
+    margin-left: -32.5px;
+    margin-bottom: -1.5px;
+    border-radius: 12%;
+    margin-top: 6px;
+    width: 37px;
+    background-color: red;
+    display: inline-block;
+}
+.mailbox{
+    margin-left: 23px;
+}
+.fa {
+    padding: 4px;
+    font-size: 30px;
+    width: 36px;
+    height: 36px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+.f{
+    font-size: 28px;
+}
+  
+.fa:hover {
+      opacity: 0.7;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.mailbutton{
+    height: 50px;
+    margin-left: 28px;
+    margin-bottom: 8px;
+    width: 242px;
+    border: solid 2px #c7c7c7;
+    border-radius: 3%;
+}
+.mtext{
+    font-family: Poppins;
+    padding-left: 4px;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color:darkslateblue;
+}
+.lineee{
+    width: 261.4px;
+    height: 0px;
+    margin-bottom: 5px;
+    border: solid 1px #c7c7c7;
+    margin-top: 10px;
+}
+.nac{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: center;
+    color: darkslateblue;
+}

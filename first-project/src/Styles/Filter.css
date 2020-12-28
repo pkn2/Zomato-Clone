@@ -1,0 +1,382 @@
+.bcon{
+    height: 51px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 1.53;
+    margin-left: 6px;
+    color: darkblue;
+    margin-bottom: 10px;
+}
+
+.nodata{
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 100px;
+    text-align: center;
+    color: darkslateblue;
+}
+
+
+.lb{
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    padding-left: 36px;
+    padding-top: 6px;
+    height: auto;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.toggle-span {
+    float: right;
+    padding: 5px 19px 5px 0px;
+    display: none;
+}
+
+.rb{
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    margin-bottom: 4%;
+    height: 240px;
+}
+
+
+.Fil{
+    padding-left: 270px;
+}
+
+.res{
+    padding-left: 4%;
+    padding-top: 2%;
+}
+
+h3{
+    color: darkslateblue;
+    margin-block-start: 0.7em;
+    margin-block-end: 0.1em;
+    font-size: 2vw;
+}
+.place{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    color: darkslateblue;
+}
+.address{
+    font-family: Poppins;
+    font-size: 16px;
+    color: #636f88;
+}
+
+
+
+
+.line{
+    margin-inline-start: 4%;
+    margin-inline-end: 4%;
+    background-color: #fbfbfb;
+    margin-block-start: 0.1em;
+    margin-block-end: 0.1em;
+}
+
+.test1{
+    width: 100%;
+    height: 56%;
+
+}
+
+.test2{
+    height: 40%;
+    width: 100%;
+}
+
+.repic{
+    width: 100%;
+    margin-left: 4%;
+    margin-top: 2.3%;
+    height: 93px;
+}
+
+.restext{
+    width: 77%;
+    height: 100%;
+    float: right;
+}
+
+
+.resitem{
+    height: 40%;
+    width: 100%;
+}
+.piccont{
+    height: 100%;
+    padding-top: 13px;
+    padding-left: 3%;
+    width: 17%;
+    display: inline-block;
+}
+
+.fona{
+    height: 100%;
+    width: 22%;
+    padding-top: 3%;
+    padding-left: 2%;
+    display: inline-block;
+}
+.fopr{
+    padding-left: 2%;
+    display: inline-block;
+}
+
+.t1{
+    padding-top: 1.2%;
+    font-size: 11px;
+    color: #636f88;
+}
+
+.t2{
+    padding-top: 0.2%;
+    color: darkslateblue;
+}
+.ps{
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.rena{
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 10px;
+    color: darkblue;
+}
+#loc{
+    width: 80%;
+    height: 35px;
+    border-radius: 3px;
+    border: solid 1px #8c96ab;
+}
+
+.formanu{
+    color: darkslateblue;
+}
+.fhed{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: darkslateblue;
+}
+.cu{
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 1.9;
+    color: darkslateblue;
+}
+.sortt{
+    font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: darkslateblue;
+}
+.it{
+    font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  margin-left: 9px;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+}
+
+.pagination {
+    display: inline-block;
+}
+  
+.pagination a {
+    color: #636f88;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #ddd;
+    border-radius: 20%;
+    margin: 0 4px;
+}
+
+.pagination a.active {
+    background-color:#969697;
+    color: white;
+    border: 1px solid #969697;
+}
+  
+.pagination a:hover:not(.active) {background-color: #ddd;}
+
+.page{
+    margin-bottom: 4%;   
+    margin-left: 15%;
+}
+  
+
+@media only screen and (max-width: 360px){
+    .repic {
+        width: 100%;
+        margin-left: 4%;
+        margin-top: 19.3%;
+        height: 73px;
+    }
+    .rena {
+        font-family: Poppins;
+        font-size: 21px;
+        font-weight: 600;
+        margin-top: 10px;
+        color: darkblue;
+    }
+    .nodata{
+        font-family: Poppins;
+        font-size: 20px;
+        font-weight: 600;
+        padding-top: 100px;
+        text-align: center;
+        color: darkslateblue;
+    }
+    .address {
+        font-family: Poppins;
+        font-size: 12px;
+        color: #636f88;
+    }
+    .place {
+        font-family: Poppins;
+        font-size: 13px;
+        font-weight: 500;
+        color: darkslateblue;
+    }
+    .restext {
+        width: 72%;
+        height: 100%;
+        float: right;
+        padding-top: 4%;
+    }
+    .bcon {
+        height: 51px;
+        font-family: Poppins;
+        font-size: 20px;
+        font-weight: bold;
+        line-height: 1.53;
+        margin-left: 5px;
+        color: darkblue;
+        margin-bottom: 10px;
+    }
+    .fhed {
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 1.5;
+        color: darkslateblue;
+    }
+    .fona {
+        height: 100%;
+        width: 37%;
+        padding-top: 3%;
+        padding-left: 2%;
+        display: inline-block;
+    }
+    .piccont {
+        height: 100%;
+        padding-top: 13px;
+        padding-left: 3%;
+        width: 22%;
+        display: inline-block;
+    }
+    .toggle-span {
+        float: right;
+        padding: 5px 15px 5px 0px;
+        display: initial;
+    }
+}
+
+@media only screen and (min-width: 360px) and (max-width: 500px) {
+    .repic {
+        width: 100%;
+        margin-left: 4%;
+        margin-top: 19.3%;
+        height: 73px;
+    }
+    .nodata{
+        font-family: Poppins;
+        font-size: 20px;
+        font-weight: 600;
+        padding-top: 100px;
+        text-align: center;
+        color: darkslateblue;
+    }
+    .rena {
+        font-family: Poppins;
+        font-size: 21px;
+        font-weight: 600;
+        margin-top: 10px;
+        color: darkblue;
+    }
+    .address {
+        font-family: Poppins;
+        font-size: 12px;
+        color: #636f88;
+    }
+    .place {
+        font-family: Poppins;
+        font-size: 13px;
+        font-weight: 500;
+        color: darkslateblue;
+    }
+    .restext {
+        width: 77%;
+        height: 100%;
+        float: right;
+        padding-top: 4%;
+    }
+    .bcon {
+        height: 51px;
+        font-family: Poppins;
+        font-size: 20px;
+        font-weight: bold;
+        line-height: 1.53;
+        margin-left: 5px;
+        color: darkblue;
+        margin-bottom: 10px;
+    }
+    .fhed {
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 1.5;
+        color: darkslateblue;
+    }
+    .fona {
+        height: 100%;
+        width: 37%;
+        padding-top: 3%;
+        padding-left: 2%;
+        display: inline-block;
+    }
+    .toggle-span {
+        float: right;
+        padding: 5px 19px 5px 0px;
+        display: initial;
+    }
+}
+
+@media only screen and (min-width: 500px) and (max-width: 991px) {
+    .toggle-span {
+        float: right;
+        padding: 5px 19px 5px 0px;
+        display: initial;
+    }
+
+}

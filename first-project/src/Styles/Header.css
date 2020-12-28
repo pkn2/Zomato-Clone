@@ -1,0 +1,29 @@
+#logo{
+    color: red;
+    background-color: white;
+    text-align: center;
+    height: 43px;
+    width: 43px;
+    border-radius: 50%;
+    position: absolute;
+    top: -10px;
+    left: 7%;
+}
+.box{
+    background-color: red;
+    height: 65px;    
+}
+.boxmanu{
+    position: relative;
+    float: right;
+    top: 25%;
+    padding-right: 5%;
+}
+.btn-danger {
+    color: #fff;
+    background-color: red;
+    border-color: white;
+}
+.pk{
+    border-color: red;
+}

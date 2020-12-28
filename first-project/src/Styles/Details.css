@@ -1,0 +1,291 @@
+.imgcon{
+    height: 386px;
+    margin-top: 4%;
+}
+
+.headertexcont{
+    color: darkblue;
+    line-height: 3;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+}
+.butt {
+    position: absolute;
+    top: 440px;
+    right: 15%;
+    opacity: 0.7;
+    background-color: white;
+    text-align: center;
+    font-family: Poppins;
+    color: darkblue;
+}
+
+.cusi{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: darkslateblue;
+}
+.mt{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: darkslateblue;
+}
+.cost{
+    font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.63;
+  letter-spacing: normal;
+  text-align: left;
+  padding-bottom: 10%;
+  color: darkslateblue;
+}
+.ac{
+    font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: darkslateblue;
+}
+.pnt{
+    font-family: Poppins;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  padding-top: 2%;
+  color: darkslateblue;
+}
+.rn{
+    font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  padding-top: 2%;
+  color: darkslateblue;
+}
+.ad{
+    font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+  padding-bottom: 10%;
+}
+.ph{
+    font-family: Poppins;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #f67082;
+}
+.adp{
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.1;
+    letter-spacing: normal;
+    text-align: left;
+    color: darkslateblue;
+}
+
+.butt:hover {
+    background-color: gray;
+}
+
+.button{
+    margin-top: 6%;
+    float: right;
+}
+
+.scrall{
+    width: 405px;
+    height: 360px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+
+.oderbx{
+    height: 420px;
+    width: 400px
+}
+.ming {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    color: darkslateblue
+}
+.itemcont{
+    width: 405px;
+    height: 128px;
+}
+
+.textcont{
+    height: 100%;
+    width: 275px;
+    display: inline-block;
+}
+
+.picturecont{
+    height: 100%;
+    width: 100px;
+    margin-right: 17px;
+    display: block;
+    float: right;
+}
+.head{
+
+    margin: 9px 0px 5px 0;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left;
+    color: #292c40;
+}
+
+.price{
+    font-family: RupeeForadian;
+    font-size: 18px;
+    margin: 0px 0px 0px 5px;
+
+    color: #292c40;
+}
+.dec{
+    font-family: RupeeForadian;
+    font-size: 13px;
+    color: #696b78;
+}
+
+.addbutton{
+    color: green;
+    width: 65px;
+    margin-left: 18px;
+}
+.paybt{
+    margin: 6px 0px 0px 60px;
+}
+.total{
+    margin: 0px 0px 0px 14px;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: bold;
+    color: #292c40;
+}
+
+.totalprice{
+    margin: 0px 0px 0px 35px;
+    font-family: Poppins;
+    font-size: 22px;
+    display: inline-block;
+    width: 112px;
+    font-weight: 600;
+    color: #292c40;
+}
+.num{
+    width: 17px;
+    height: 26px;
+    text-align: center;
+    padding: 3px 0px 0px 0px;
+    background-color: rgb(208, 255, 1);
+    display: inline-block;
+}
+
+.ad{
+    width: 264px;
+    height: 129px;
+    padding-bottom: 95px;
+}
+
+.fd{
+    padding-left: 12px;
+}
+.na{
+    width: 264px;
+}
+.mn{
+    width: 264px;
+}
+.procedbt{
+    margin-left: 100px;
+}
+.pl{
+    font-size: 44px;
+    font-weight: 600;
+    width: auto;
+    height: auto;
+    font-family: cursive;
+    color: red;
+    line-height: 2;
+    margin: 0px 40px 0px 40px;
+}
+
+@media only screen and (max-width: 720px){
+    .headertexcont{
+        color: darkblue;
+        line-height: 3;
+        font-family: Poppins;
+        font-size: 23px;
+        font-weight: 600;
+    }
+    .butt {
+        position: absolute;
+        top: 410px;
+        right: 6%;
+        font-size: 12px;
+        background-color: white;
+        text-align: center;
+        font-family: Poppins;
+        color: darkblue;
+    }
+    .button{
+        margin-top: 3%;
+        font-size: 12px;
+        float: right;
+    }
+
+}
+@media only screen and (min-width: 360px) and (max-width: 900px){
+    .button{
+        margin-top: 9%;
+        font-size: 12px;
+        float: right;
+    }
+}

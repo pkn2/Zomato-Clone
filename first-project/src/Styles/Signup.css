@@ -1,0 +1,42 @@
+.mainheading{
+    font-family: Poppins;
+    font-size: 26px;
+    font-weight: 600;
+    margin-bottom: 13px;
+    line-height: 1.53;
+    padding-left: 109px;
+    color: darkslateblue;
+}
+
+
+.bx{
+    height: 430px;
+    width: 298px;
+    padding-top: 8px;
+    box-shadow: 3px 1px 16px 7px;
+}
+.fs{
+    padding-left: 54px;
+}
+
+.linee{
+    width: 261.4px;
+    height: 0px;
+    margin-bottom: 5px;
+    border: solid 1px #c7c7c7;
+    margin-top: 9px;
+}
+.bbt{
+    margin-left: 60px;
+}
+.aha{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: center;
+    color: darkslateblue;
+}
